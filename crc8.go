@@ -3,7 +3,7 @@
 // It provides parameters for the majority of well-known CRC-8 algorithms.
 package crc8
 
-import "github.com/sigurn/utils"
+import "github.com/cryptorest/byte_utils"
 
 // Params represents parameters of a CRC-8 algorithm including polynomial and initial value.
 // More information about algorithms parametrization and parameter descriptions
